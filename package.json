@@ -1,5 +1,5 @@
 {
-  "name": "@mycure/vue-jitsi-meet",
+  "name": "@twilight1975/vue-jitsi-meet",
   "version": "0.0.7",
   "description": "Vue component for Jitsi Meet Web Integration via IFrame",
   "main": "dist/index.js",
