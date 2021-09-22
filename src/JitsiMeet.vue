@@ -48,6 +48,8 @@ export default {
     removeJitsiWidget () {
       if (this.jitsiApi) this.jitsiApi.dispose();
     },
+    getNumberOfParticipants() {
+      return this.jitsiApi.getNumberOfParticipants()
   }
 };
 </script>
